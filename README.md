@@ -494,7 +494,19 @@ Los datasets de este proyecto son **sintéticos** generados a partir de los benc
 | costo_construccion_datacenter_100k.csv | 100,000 | Epoch AI, Thunder Said 2024 |
 
 ---
+## Equipo
 
+Proyecto desarrollado en el marco de **NoCountry** por:
+
+| Integrante | Especialidad |
+| --- | --- |
+| Florencia Hidalgo | Data Analytics |
+| Marvin Orozco | Data Science / Data Engineering |
+| Luis Perez Ortiz | Data Science |
+| Carolhay Carhuas | Ingeniería en Sistemas |
+| Claudia Rivero | Data Science |
+
+---
 ## Licencia
 
 Este proyecto es de uso interno y demostración. Todos los derechos reservados.
